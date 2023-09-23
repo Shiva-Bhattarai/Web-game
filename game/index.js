@@ -1,9 +1,7 @@
 // globalConfig.js
 // ===========================================================================
-// ===========================================================================
-
 // Provides global variables used by the entire program.
-// Most of this should be configuration.
+
 
 // Timing multiplier for entire game engine.
 let gameSpeed = 1;
