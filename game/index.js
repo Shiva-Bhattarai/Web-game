@@ -59,6 +59,7 @@ const makeTargetGlueColor = target => {
 	// return `rgba(170,221,255,${alpha.toFixed(3)})`;
 	return 'rgb(170,221,255)';
 };
+
 // Size of target fragments
 const fragRadius = targetRadius / 3;
 
