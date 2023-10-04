@@ -8,9 +8,8 @@ body {
 	font-family: monospace;
 	font-weight: bold;
 	letter-spacing: 0.06em;
-	color: rgba(255, 255, 255, 0.75);
+	color: rgba(254, 254, 254, 0.75);
 }
-
 
 #c {
 	display: block;
