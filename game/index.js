@@ -3,6 +3,7 @@
 // Provides global variables used by the entire program.
 
 // Timing multiplier for entire game engine.
+
 let gameSpeed = 1;
 
 // Colors
