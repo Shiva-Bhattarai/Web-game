@@ -6,7 +6,7 @@
 
 let gameSpeed = 1;
 
-// Colors
+// Colors 
 const BLUE =   { r: 0x67, g: 0xd7, b: 0xf0 };
 const GREEN =  { r: 0xa6, g: 0xe0, b: 0x2c };
 const PINK =   { r: 0xfa, g: 0x24, b: 0x73 };
