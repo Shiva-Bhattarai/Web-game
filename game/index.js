@@ -1,4 +1,4 @@
-// globalConfig.js
+ // globalConfig.js
 // ========================================================   
 // Provides global variables used by the entire program.
 
